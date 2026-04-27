@@ -6,8 +6,8 @@ public class Main {
         Persegi persegi2 = new Persegi(7.0, "Hijau", "Dotted");
 
         // Membuat objek Lingkaran
-        Lingkaran lingkaran1 = new Lingkaran(3.0, "Biru", "Dashed");
-        Lingkaran lingkaran2 = new Lingkaran(4.0, "Kuning", "Solid");
+        Asersi2 lingkaran1 = new Asersi2(3.0, "Biru", "Dashed");
+        Asersi2 lingkaran2 = new Asersi2(4.0, "Kuning", "Solid");
 
         // Informasi Persegi 1
         System.out.println("=== Informasi Persegi 1 ===");

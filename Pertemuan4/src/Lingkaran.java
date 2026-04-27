@@ -18,11 +18,11 @@ public class Lingkaran extends BangunDatar {
         this.jari = jari;
     }
 
-    public Double getLuas() {
+    public double getLuas() {
         return Math.PI * jari * jari;
     }
 
-    public Double getKeliling() {
+    public double getKeliling() {
         return 2 * Math.PI * jari;
     }
 

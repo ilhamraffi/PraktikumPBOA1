@@ -18,11 +18,11 @@ public class Persegi extends BangunDatar {
         this.sisi = sisi;
     }
 
-    public Double getLuas() {
+    public double getLuas() {
         return sisi * sisi;
     }
 
-    public Double getKeliling() {
+    public double getKeliling() {
         return 4 * sisi;
     }
 

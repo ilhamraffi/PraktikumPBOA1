@@ -29,7 +29,6 @@ public class Main {
         dataAnabul.setIsi(2, kucingTelon);
         dataAnabul.setIsi(50, new Anjing("Heli"));
 
-        // Memanggil objek langsung akan menggunakan method toString()
         System.out.println("Isi posisi 1: " + dataAnabul.getIsi(1));
         System.out.println("Isi posisi 50: " + dataAnabul.getIsi(50));
         
